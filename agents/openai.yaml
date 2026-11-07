@@ -1,0 +1,7 @@
+interface:
+  display_name: "iOS Growth SDK Integrations"
+  short_description: "RevenueCat, Firebase, Mixpanel, and AppsFlyer for iOS"
+  default_prompt: "Use $ios-growth-sdk-integrations to audit this iOS app and integrate or debug requested growth SDKs with local and provider verification."
+
+policy:
+  allow_implicit_invocation: true
